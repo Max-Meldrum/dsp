@@ -7,6 +7,7 @@
 - [ ] Time, clocks, and the ordering of events in a distributed system
 - [ ] The Byzantine Generals Problem
 - [ ] Unreliable failure detectors for reliable distributed systems
+- [ ] Linearizability: A Correctness Condition for Concurrent Objects 
 
 
 ## Consensus/Replication
@@ -22,6 +23,9 @@
 - [x] ZooKeeper’s atomic broadcast protocol: Theory and practice
 - [x] A Simple Totally Ordered Broadcast Protocol
 - [ ] Chain Replication for Supporting High Throughput and Availability
+- [ ] There Is More Consensus in Egalitarian Parliaments
+- [x] CASPaxos: Replicated State Machines without logs
+
 
 
 ## Systems
@@ -43,3 +47,9 @@
 
 - [ ] Kompics: A Message-Passing Component Model for Building Distributed Systems
 - [ ] Kompics Scala: narrowing the gap between algorithmic specification and executable code 
+
+
+
+## Reviewed
+
+- [ ] FLP - Impossibility of distributed consensus with one faulty process
