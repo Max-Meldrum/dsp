@@ -42,11 +42,16 @@
 - [x] Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
 - [x] Bitcoin: A Peer-to-Peer Electronic Cash System
 
-## Cluster Manager
+## Cluster Manager / Scheduling
 
 - [x] Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center
 - [x] Apache Hadoop YARN: Yet Another Resource Negotiator
 - [x] Large-scale cluster management at Google with Borg
+- [ ] Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters
+- [ ] Eagle: A Better Hybrid Data Center Scheduler
+- [ ] Hawk: Hybrid Datacenter Scheduling
+- [ ] Canary: A Scheduling Architecture for High Performance Cloud Computing
+
 
 
 ## Programming Models
