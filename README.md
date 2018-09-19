@@ -52,6 +52,13 @@
 - [x] Hawk: Hybrid Datacenter Scheduling
 - [ ] Canary: A Scheduling Architecture for High Performance Cloud Computing
 
+## Stream Processing
+
+- [x] Apache Flink™: Stream and Batch Processing in a Single Engine
+- [ ] MillWheel: Fault-Tolerant Stream Processing at Internet Scale
+- [ ] SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures
+- [ ] Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
+
 
 
 ## Programming Models
