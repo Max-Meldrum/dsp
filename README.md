@@ -35,6 +35,8 @@
 - [x] ZooKeeper: Wait-free coordination for Internet-scale systems
 - [ ] Cassandra - A Decentralized Structured Storage System
 - [ ] Dynamo: Amazon’s Highly Available Key-value Store
+- [x] The Google File System
+-
 
 
 ## P2P
@@ -59,6 +61,8 @@
 - [ ] SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures
 - [ ] Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
 
+## Data Processing
+- [x] MapReduce: Simplified Data Processing on Large Clusters
 
 
 ## Programming Models
