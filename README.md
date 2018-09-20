@@ -36,7 +36,7 @@
 - [ ] Cassandra - A Decentralized Structured Storage System
 - [ ] Dynamo: Amazon’s Highly Available Key-value Store
 - [x] The Google File System
--
+- [ ] Kafka: a Distributed Messaging System for Log Processing
 
 
 ## P2P
@@ -57,13 +57,15 @@
 - [ ] Quincy: Fair Scheduling for Distributed Computing Clusters
 - [ ] Dominant Resource Fairness: Fair Allocation of Multiple Resource Types
 
-
 ## Stream Processing
 
 - [x] Apache Flink™: Stream and Batch Processing in a Single Engine
 - [ ] MillWheel: Fault-Tolerant Stream Processing at Internet Scale
 - [ ] SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures
 - [ ] Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
+- [ ] High-Availability Algorithms for Distributed Stream Processing
+- [ ] Storm @Twitter
+- [ ] The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing
 
 ## Data Processing
 - [x] MapReduce: Simplified Data Processing on Large Clusters
