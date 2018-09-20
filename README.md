@@ -53,6 +53,10 @@
 - [ ] Eagle: A Better Hybrid Data Center Scheduler
 - [x] Hawk: Hybrid Datacenter Scheduling
 - [ ] Canary: A Scheduling Architecture for High Performance Cloud Computing
+- [ ] Delay Scheduling: A Simple Technique for Achieving Locality and Fairness in Cluster Scheduling
+- [ ] Quincy: Fair Scheduling for Distributed Computing Clusters
+- [ ] Dominant Resource Fairness: Fair Allocation of Multiple Resource Types
+
 
 ## Stream Processing
 
