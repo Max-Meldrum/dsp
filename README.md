@@ -50,7 +50,7 @@
 - [x] Apache Hadoop YARN: Yet Another Resource Negotiator
 - [x] Large-scale cluster management at Google with Borg
 - [x] Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters
-- [ ] Eagle: A Better Hybrid Data Center Scheduler
+- [x] Eagle: A Better Hybrid Data Center Scheduler
 - [x] Hawk: Hybrid Datacenter Scheduling
 - [ ] Canary: A Scheduling Architecture for High Performance Cloud Computing
 - [ ] Delay Scheduling: A Simple Technique for Achieving Locality and Fairness in Cluster Scheduling
