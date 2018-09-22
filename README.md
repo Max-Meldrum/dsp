@@ -64,7 +64,7 @@
 - [ ] SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures
 - [ ] Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
 - [ ] High-Availability Algorithms for Distributed Stream Processing
-- [ ] Storm @Twitter
+- [x] Storm @Twitter
 - [ ] The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing
 
 ## Data Processing
