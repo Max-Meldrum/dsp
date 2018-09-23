@@ -60,7 +60,7 @@
 ## Stream Processing
 
 - [x] Apache Flink™: Stream and Batch Processing in a Single Engine
-- [ ] MillWheel: Fault-Tolerant Stream Processing at Internet Scale
+- [x] MillWheel: Fault-Tolerant Stream Processing at Internet Scale
 - [ ] SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures
 - [ ] Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
 - [ ] High-Availability Algorithms for Distributed Stream Processing
