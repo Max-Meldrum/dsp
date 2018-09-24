@@ -56,6 +56,7 @@
 - [ ] Delay Scheduling: A Simple Technique for Achieving Locality and Fairness in Cluster Scheduling
 - [ ] Quincy: Fair Scheduling for Distributed Computing Clusters
 - [ ] Dominant Resource Fairness: Fair Allocation of Multiple Resource Types
+- [ ] Medea: Scheduling of Long Running Applications in Shared Production Clusters
 
 ## Stream Processing
 
