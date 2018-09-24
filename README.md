@@ -69,6 +69,7 @@
 
 ## Data Processing
 - [x] MapReduce: Simplified Data Processing on Large Clusters
+- [x] Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
 
 
 ## Programming Models
