@@ -37,6 +37,7 @@
 - [ ] Dynamo: Amazon’s Highly Available Key-value Store
 - [x] The Google File System
 - [ ] Kafka: a Distributed Messaging System for Log Processing
+- [x] Ray: A Distributed Framework for Emerging AI Applications
 
 
 ## P2P
